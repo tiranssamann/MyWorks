@@ -1,0 +1,5 @@
+SELECT * FROM VIewZakaz
+SELECT * FROM OJIDANIETOVAR
+SELECT * FROM VIewZakazOjidanie
+SELECT * FROM VIewZakazKonec
+SELECT * FROM VIewCustomers

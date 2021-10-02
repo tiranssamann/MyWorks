@@ -1,0 +1,12 @@
+﻿@model ShopRadioItemsViewModel
+    <div class="container">
+        @foreach (var el in Model.ShopCar.listShopItems)
+        {
+            <div class="alert alert-warning m-3">
+                <b>Прибор:</b>@el.car.name<br />
+                <b>Цена:</b>@el.car.price.ToString("c")
+            </div>
+        }
+        <hr />
+        <a class="btn btn-danger" asp-controller="Order" asp-action="CheckOut">Оплатить</a>
+    </div>

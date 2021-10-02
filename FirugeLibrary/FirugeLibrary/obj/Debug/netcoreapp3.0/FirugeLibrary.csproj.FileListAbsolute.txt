@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\FirugeLibrary\FirugeLibrary\bin\Debug\netcoreapp3.0\FirugeLibrary.deps.json
+C:\Users\User\Desktop\FirugeLibrary\FirugeLibrary\bin\Debug\netcoreapp3.0\FirugeLibrary.dll
+C:\Users\User\Desktop\FirugeLibrary\FirugeLibrary\bin\Debug\netcoreapp3.0\FirugeLibrary.pdb
+C:\Users\User\Desktop\FirugeLibrary\FirugeLibrary\obj\Debug\netcoreapp3.0\FirugeLibrary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FirugeLibrary\FirugeLibrary\obj\Debug\netcoreapp3.0\FirugeLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FirugeLibrary\FirugeLibrary\obj\Debug\netcoreapp3.0\FirugeLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\FirugeLibrary\FirugeLibrary\obj\Debug\netcoreapp3.0\FirugeLibrary.dll
+C:\Users\User\Desktop\FirugeLibrary\FirugeLibrary\obj\Debug\netcoreapp3.0\FirugeLibrary.pdb

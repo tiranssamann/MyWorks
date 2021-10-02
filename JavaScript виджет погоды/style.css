@@ -1,0 +1,175 @@
+html{
+    box-sizing: border-box;
+}
+*, *::before, *::after{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 960px;
+    background-color: rgb(231, 231, 231);
+    margin: auto;
+    
+}
+header{
+    height: 60px;
+}
+h1{
+    display: inline;
+    color: rgb(0, 165, 129);
+    margin-bottom: 35px;
+    margin-left: 5px;
+}
+.search{
+    display: inline-flex;
+    float: right;
+    align-content: center;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+input {
+    height: 19px;
+    padding: 5px;
+}
+.search img{
+    height: 19px;
+    width: 19px;
+}
+
+
+.weather{
+    background-color: lightgray;
+    padding: 30px;
+}
+.pages{
+    background-color: rgb(58, 58, 58);
+    padding: 7px 13px;
+}
+.pages div{
+    display: inline;
+    padding: 7px 13px;
+    color: #fff;
+    cursor: pointer;
+}
+.pages div:hover{
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+
+
+.current_weather{
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+.current_weather h3{
+    display: inline-flex;
+    color: rgb(0, 165, 129);
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.current_date{
+    display: inline;
+    float: right;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+.current_main{
+    display: flex;
+    justify-content: space-around;
+}
+.current_img{
+    display: inline;
+}
+.current_img img{
+    height: 100px;
+}
+.current_degrees{
+    display: inline;
+}
+.current_degrees div{
+    width: fit-content;
+}
+.temperature{
+    font-size: 50px;
+}
+.current_inform{
+    padding-top: 22px;
+}
+
+
+.hourly{
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+.hourly h3{
+    color: rgb(0, 165, 129);
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+table{
+
+    font-size: 30px;
+}
+td{
+    padding: 20px;
+}
+
+.nearby_places{
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+.nearby_places h3{
+    color: rgb(0, 165, 129);
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.narby_img{
+    height: 35px;
+}
+.nearby_items{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+.nearby_item{
+    display: flex;
+    background-color: rgb(245, 245, 245);
+    margin: 5px;
+}
+.nearby_item div{
+    display: inline;
+    height: fit-content;
+    align-self: center;
+}
+.day{
+    border-radius:4px;
+	 box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	 text-align:center;
+	 padding:20px;
+     margin-bottom: 20px;
+     width: 20%;
+     background-color: rgb(226, 226, 226);
+}
+.fivedays{
+    width: 100%;
+    display: flex;
+}
+
+.day:nth-child(1){
+    background-color: white;
+}
+input{
+    height: 25px;
+}
+#day1{
+    font-size: large;
+}

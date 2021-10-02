@@ -1,0 +1,401 @@
+*, 
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.2;
+    color: black;
+}
+.LastMenu{
+    display: none;
+}
+.texts{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    margin: 10px 0;
+}
+.texts input{
+    width: 100%;
+}
+.texts div{
+    margin: 0 30px 0  0;
+}
+.texts div:last-of-type{
+    margin: 0 0 0 0;
+}
+a:hover{
+    color: black;
+}
+form{
+    margin: 30px 50px;
+    padding: 10px 30px;
+}
+.radio{
+    margin: 10px 0;
+    display: inline-block;
+}
+.radiocontact{
+    display: inline;
+}
+.radiopower{
+    display: inline;
+}
+.texts div{
+    display: block;
+}
+.message{
+    margin: 10px 0;
+}
+textarea{
+    width: 100%;
+}
+.buttons{
+    width: 100%;
+    display: inline-block;
+}
+.buttons div{
+    display: inline;
+}
+.end{
+    float:right;
+    text-align: right;
+}
+label{
+    font-weight: 700;
+}
+.radiocontact{
+    font-weight: 700;
+}
+.radiopower label{
+    font-weight: 400;
+}
+footer div.a{
+    text-align: center;
+    margin: 30px;
+}
+footer div.a img{
+    width: 32px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 3px;
+}
+footer div.b{
+    text-align: center;
+}
+ol,
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(125, 123, 123);
+}
+a:hover{
+    color: black;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+    
+}
+hr{
+    opacity: 0.2;
+}
+.MainPage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 50px;
+    align-items: center;
+}
+.Left, .RightNavigation{
+    padding: 15px 0;
+}
+.Left > nav > ul > li > a > h3{
+    font-weight: 700;
+}
+.Left > nav > ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.RightNavigation > nav > ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Left > nav > ul > li{
+    margin-right:  20px;
+}
+.Left > nav > ul > li:last-child{
+    margin-right: 0;
+}
+.RightNavigation > nav > ul > li{
+    margin-right: 20px;
+}
+.RightNavigation > nav > ul > li:last-child{
+    margin-right: 0;
+}
+.RightNavigation > nav >ul > li > a > img{
+    width: 20px;
+    height: 20px;
+}
+section > h2{
+    text-align: center;
+    font-weight: bold;
+    margin: 20px 0;
+    opacity: 0.7;
+    font-size: 30px;
+}
+.HeadStory > div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid rgba(0, 0, 0, .1) ;
+    border-bottom: 1px solid rgba(0, 0, 0, .1) ;
+}
+.HeadStory > div:nth-child(2n){
+    flex-direction: row-reverse;
+}
+.HeadStory > img{
+    width: 50%;
+}
+.text{
+    padding: 0 50px;
+
+}
+.text > h1{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.text > p{
+    text-align: justify;
+}
+.text > span {
+    display: block;
+    opacity: 0.8;
+    text-align: justify;
+}
+.HeadStory > div > img{
+    width: 500px;
+    height: 500px;
+}
+.text > button{
+    margin-top: 30px;
+    padding: 15px 20px;
+    text-transform: uppercase;
+    background-color: transparent;
+    border: 1px solid rgba(0, 0, 0, .8);
+    opacity: 0.3;
+    border-radius: 5px;
+}
+.gallery{
+    margin: 30px 0;
+}
+.gallery > div {
+    display: flex;
+    width: 100%;
+    height: 300px;
+}
+.gallery > div > a > img{
+    width: 450px;
+    object-fit: cover;
+}
+.ItemImages{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.card{
+    text-align: center;
+    padding: 30px;
+}
+.top{
+    border: 1px solid rgba(0, 0, 0, .1);
+    border-top: 0;
+}
+.bottom{
+    border: 1px solid rgba(0, 0, 0, .1);
+    border-bottom: 0;
+}
+.horizontal{
+    border-left: 0;
+    border-right: 0;
+}
+.card > img{
+    margin: 20px 0;
+}
+.card > h3{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.card > p{
+    margin-bottom: 30px;
+}
+.lastRow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.lastRow > button{
+padding: 15px 20px;
+text-transform: uppercase;
+background-color: transparent;
+border: 1px solid rgba(0, 0, 0, .8);
+opacity: 0.3;
+border-radius: 5px;
+}
+.gallery {
+    padding: 40px 0;
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    clear: both;
+    position: relative;
+    overflow: hidden;
+   }
+.gallery a {
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.gallery a:before {
+    position: absolute;
+    width: 32px;
+    height: 28px;
+    top: 40%;
+    left: 50%;
+    margin: -14px 0 0 -10px;
+    background: url(https://wp-lessons.com/wp-content/uploads/2015/01/magnifier.png) no-repeat;
+    content: '';
+    opacity: 0;
+    z-index: 1;
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+.gallery a:hover:before {
+    top: 50%;
+    opacity: 1;
+}
+.gallery a:after {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    content: '';
+    opacity: 0;
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+.gallery > a:hover:after {
+    opacity: 1;
+}
+@media only screen and (max-width: 1050px){
+    .text > p, span, h1, button{
+        font-size: 12px;
+    }
+    .HeadStory > div > img{
+        width: 400px;
+        height: 400px;
+    }
+    .text > button{
+        padding: 10px;
+    }
+    .LastMenu{
+        display: none;
+    }
+}
+@media only screen and (max-width: 850px){
+    *{
+        font-size: 14px;
+    }
+    .text > p, span, h1, button{
+        font-size: 10px;
+    }
+    .HeadStory > div > img{
+        width: 350px;
+        height: 350px;
+    }
+    .text > button{
+        padding: 10px;
+    }
+    .RightNavigation{
+        display: none;
+    }
+    .ItemImages{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .card{
+        border: 0;
+    }
+    .LeftItem{
+        border-right: 1px solid rgba(0, 0, 0, .1);
+    }
+    .CenterItem{
+        border-top: 1px solid rgba(0, 0, 0, .1);
+        border-bottom: 1px solid rgba(0, 0, 0, .1);
+    }
+    .gallery > div > img:nth-child(odd){
+        display: none;
+        width: 100%;
+    }
+    .gallery > div > img{
+        width: 50%;
+    }
+    .LastMenu{
+        display: none;
+    }
+}
+@media only screen and (max-width: 600px){
+    .ItemImages{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .gallery > div > img{
+        display: none;
+    }
+    .gallery > div > img:first-child{
+        display: block;
+    }   
+    .card{
+        border: 0;
+        border-bottom: 1px solid rgba(0, 0, 0, .1);
+    }
+    .MainPage{
+        display: none;
+    }
+    .LastMenu{
+        display: block;
+        margin-top: 30px;
+    }
+    .HeadStory > div{
+
+        display: block;
+    }
+    .texts{
+        display: block;
+    }
+    .texts1{
+        grid-column-start: 1;
+        grid-column-start: 2;
+        grid-row-start: 1;
+        grid-row-start: 1;
+    }
+    .texts2{
+        grid-column-start: 1;
+        grid-column-start: 2;
+        grid-row-start: 3;
+        grid-row-start: 3;
+    }
+    .texts3{
+        grid-column-start: 1;
+        grid-column-start: 2;
+        grid-row-start: 3;
+        grid-row-start: 3;
+    } 
+}

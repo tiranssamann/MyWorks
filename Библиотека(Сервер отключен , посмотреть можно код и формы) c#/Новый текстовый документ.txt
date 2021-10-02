@@ -1,0 +1,10 @@
+https://mssql.site4now.net/default.asp
+сайт для подключения базы данных
+
+Provider=sqloledb;Data Source=SQL5052.site4now.net,1433;Initial Catalog=DB_A66CD9_itstep;User Id=DB_A66CD9_itstep_admin;Password=7779134ara;
+
+string datasource = @"sql5052.site4now.net";
+
+string database = "DB_A66CD9_itstep";
+string username = "DB_A66CD9_itstep_admin";
+string password = "7779134ara";

@@ -1,0 +1,11 @@
+﻿
+<h1 class="mt-3">Все Радиоприборы</h1>
+<h3>@Model.currCategory</h3>
+<div class="row mt-5 mb-2">
+    @{
+        foreach (RadioItem car in Model.GetCars)
+        {
+            @Html.Partial("AllRadioItem", car)
+        }
+     }
+</div>

@@ -1,0 +1,14 @@
+﻿@model StalkerShop.Data.Models.RadioItem
+    <div class="card-body text-center" style="background:gray; border:2px;" >
+
+        <img class="card-img-top" src="@Model.img" alt="@Model.name" width="100%" height="50%"/>
+
+        <h2>Модель: @Model.name</h2>
+        <h4>@Model.shortDesc</h4>
+        <p>Цена: @Model.price.ToString("c")</p>
+        <p><b>Описание: @Model.longDesc</b></p>
+        <p>
+            <a class="btn btn-warning" asp-controller="ShopRadioItem" asp-action="addToCart" asp-route-id="@Model.id">Добавить в корзину</a>
+        </p>
+    </div>
+   

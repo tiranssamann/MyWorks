@@ -1,0 +1,11 @@
+﻿CREATE TABLE Person
+(
+	Id INT NOT NULL PRIMARY KEY, 
+    Lastname NVARCHAR(50) NULL, 
+    Name NVARCHAR(50) NULL, 
+    Surname NVARCHAR(50) NULL, 
+    [Login] NVARCHAR(50) NULL, 
+    Pass NVARCHAR(50) NULL, 
+    GetBook NVARCHAR(50) NULL,
+	GetRole NVARCHAR(50) NULL
+)

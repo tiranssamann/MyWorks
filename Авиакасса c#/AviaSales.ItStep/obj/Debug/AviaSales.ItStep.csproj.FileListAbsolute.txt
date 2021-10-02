@@ -1,0 +1,88 @@
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.exe.config
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.exe
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.pdb
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.Properties.Resources.resources
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.exe
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.pdb
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csproj.CopyComplete
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.HelloFormItstep.resources
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.LoginForm.resources
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.RegForm.resources
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.AdminForm.resources
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UpdateForm.resources
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UpdateUserForm.resources
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UserForm.resources
+C:\Users\User\source\repos\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.CashForm.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.exe.config
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.exe
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.pdb
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.AdminForm.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.CashForm.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.HelloFormItstep.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.LoginForm.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.Properties.Resources.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.RegForm.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UpdateForm.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UpdateUserForm.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UserForm.resources
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csproj.GenerateResource.cache
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csproj.CopyComplete
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.exe
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.pdb
+C:\Users\User\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.CheckSave.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.exe.config
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.exe
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.pdb
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.dll
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.xml
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csprojAssemblyReference.cache
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.AdminForm.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.CashForm.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.CheckSave.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.HelloFormItstep.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.LoginForm.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.Properties.Resources.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.RegForm.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UpdateForm.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UpdateUserForm.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UserForm.resources
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csproj.GenerateResource.cache
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csproj.CoreCompileInputs.cache
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csproj.CopyComplete
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.exe
+C:\Users\ЗакаринА\Desktop\AviaSales.ItStep\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.pdb
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.exe.config
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.exe
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\bin\Debug\AviaSales.ItStep.pdb
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.AdminForm.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.CashForm.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.CheckSave.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.HelloFormItstep.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.LoginForm.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.Properties.Resources.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.RegForm.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UpdateForm.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UpdateUserForm.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.UserForm.resources
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.csproj.CopyComplete
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.exe
+C:\Users\User\Desktop\Резюме Закарин Артур Эльдарович\Мои проекты\Авиакасса\AviaSales.ItStep\obj\Debug\AviaSales.ItStep.pdb
