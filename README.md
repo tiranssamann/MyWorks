@@ -1,6 +1,6 @@
 # My works
 
-# FigureLibrary - Library with the solution for calculating the area of ??figures
+# FigureLibrary - Library with the solution for calculating the area of figures
 
 # HTML + CSS - Example of site layout
 
