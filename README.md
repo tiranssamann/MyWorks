@@ -10,6 +10,6 @@
 
 # Aviakassa - an example of creating an application using the C # language and the entity Framework
 
-# Library and Home Bookkeeping - an example of creating an application using ADO.NET C #
+# Library and Home Bookkeeping - an example of creating an application using ADO.NET
 
 # SQL Examples - an example of creating a database, stored procedures, triggers, etc.
