@@ -8982,11 +8982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\StalkerShop\\StalkerShop\\StalkerShop.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\MyWorks\\StalkerShop\\StalkerShop\\StalkerShop.csproj",
       "projectName": "StalkerShop",
-      "projectPath": "C:\\Users\\User\\Desktop\\StalkerShop\\StalkerShop\\StalkerShop.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\MyWorks\\StalkerShop\\StalkerShop\\StalkerShop.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\StalkerShop\\StalkerShop\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\MyWorks\\StalkerShop\\StalkerShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
