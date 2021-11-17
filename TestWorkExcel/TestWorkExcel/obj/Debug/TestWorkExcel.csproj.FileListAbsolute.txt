@@ -1,0 +1,10 @@
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\bin\Debug\TestWorkExcel.exe.config
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\bin\Debug\TestWorkExcel.exe
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\bin\Debug\TestWorkExcel.pdb
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\obj\Debug\TestWorkExcel.csprojAssemblyReference.cache
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\obj\Debug\TestWorkExcel.Form1.resources
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\obj\Debug\TestWorkExcel.Properties.Resources.resources
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\obj\Debug\TestWorkExcel.csproj.GenerateResource.cache
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\obj\Debug\TestWorkExcel.csproj.CoreCompileInputs.cache
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\obj\Debug\TestWorkExcel.exe
+C:\Users\User.601--13\Desktop\TestWorkExcel\TestWorkExcel\obj\Debug\TestWorkExcel.pdb
