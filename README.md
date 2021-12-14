@@ -1,19 +1,19 @@
 # My works
 
-# FigureLibrary - Library with the solution for calculating the area of figures
+1. FigureLibrary - Library with the solution for calculating the area of figures
 
-# HTML + CSS - Example of site layout
+2. HTML + CSS - Example of site layout
 
-# JavaScript - Create a weather widget using the API
+3. JavaScript - Create a weather widget using the API
 
-# StalkerShop - An example of creating a website using ASP.NET C #
+4. StalkerShop - An example of creating a website using ASP.NET C #
 
-# Aviakassa - an example of creating an application using the C # language and the entity Framework
+5. Aviakassa - an example of creating an application using the C # language and the entity Framework
 
-# Library and Home Bookkeeping - an example of creating an application using ADO.NET
+6. Library and Home Bookkeeping - an example of creating an application using ADO.NET
 
-# SQL Examples - an example of creating a database, stored procedures, triggers, etc.
+7. SQL Examples - an example of creating a database, stored procedures, triggers, etc.
 
-# TestWorkExcel - Example work c# with excel
+8. TestWorkExcel - Example work c# with excel
 
-# Click Api - Exmaple ASP.NET CORE WEB API with swagger
+9 Click Api - Exmaple ASP.NET CORE WEB API with swagger
